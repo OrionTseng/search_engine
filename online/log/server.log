@@ -1,0 +1,40 @@
+2025-04-08 12:21:55,496 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onClose:64] [LogInfo]: client conn break
+2025-04-08 12:24:05,096 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onConnection:36] [LogInfo]: client conn success
+2025-04-08 12:24:11,674 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:wordSearcher:60] [LogInfo]word query
+2025-04-08 12:24:15,876 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onClose:64] [LogInfo]: client conn break
+2025-04-08 18:17:49,104 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onConnection:36] [LogInfo]: client conn success
+2025-04-08 18:18:25,322 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:wordSearcher:60] [LogInfo]word query
+2025-04-08 18:18:31,053 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onClose:64] [LogInfo]: client conn break
+2025-04-08 18:18:34,134 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onConnection:36] [LogInfo]: client conn success
+2025-04-08 18:18:36,782 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:wordSearcher:60] [LogInfo]word query
+2025-04-08 18:20:24,874 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:wordSearcher:60] [LogInfo]word query
+2025-04-08 18:20:32,273 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:wordSearcher:60] [LogInfo]word query
+2025-04-08 18:20:59,185 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onClose:64] [LogInfo]: client conn break
+2025-04-08 18:21:01,881 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onConnection:36] [LogInfo]: client conn success
+2025-04-08 18:21:12,046 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onClose:64] [LogInfo]: client conn break
+2025-04-08 18:21:15,693 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onConnection:36] [LogInfo]: client conn success
+2025-04-08 18:21:19,478 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:wordSearcher:34] [LogInfo]word query
+2025-04-08 18:21:28,918 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onClose:64] [LogInfo]: client conn break
+2025-04-08 18:21:41,925 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onConnection:36] [LogInfo]: client conn success
+2025-04-08 18:21:46,762 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onClose:64] [LogInfo]: client conn break
+2025-04-08 18:21:48,671 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onConnection:36] [LogInfo]: client conn success
+2025-04-08 18:21:51,339 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:wordSearcher:60] [LogInfo]word query
+2025-04-08 18:22:09,830 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onClose:64] [LogInfo]: client conn break
+2025-04-08 18:22:11,664 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onConnection:36] [LogInfo]: client conn success
+2025-04-08 18:22:14,693 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:wordSearcher:60] [LogInfo]word query
+2025-04-08 18:22:41,758 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onClose:64] [LogInfo]: client conn break
+2025-04-08 18:22:42,804 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onConnection:36] [LogInfo]: client conn success
+2025-04-08 18:22:46,179 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:wordSearcher:60] [LogInfo]word query
+2025-04-08 18:23:19,623 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onClose:64] [LogInfo]: client conn break
+2025-04-08 18:23:21,944 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onConnection:36] [LogInfo]: client conn success
+2025-04-08 18:23:30,166 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:pageSearcher:130] [LogInfo]page query
+2025-04-08 18:23:58,543 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:pageSearcher:130] [LogInfo]page query
+2025-04-08 18:24:53,489 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:pageSearcher:81] [LogInfo]page query
+2025-04-08 18:25:46,120 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:pageSearcher:130] [LogInfo]page query
+2025-04-08 18:28:07,506 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onClose:64] [LogInfo]: client conn break
+2025-04-09 10:21:14,939 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onConnection:36] [LogInfo]: client conn success
+2025-04-09 10:35:38,458 MyCategory [INFO] [src/SearchEngineServer/SearchEngineServer.cc:onConnection:36] [LogInfo]: client conn success
+2025-04-09 10:35:41,372 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:pageSearcher:130] [LogInfo]page query
+2025-04-09 10:36:26,270 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:pageSearcher:130] [LogInfo]page query
+2025-04-09 10:36:44,780 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:pageSearcher:130] [LogInfo]page query
+2025-04-09 10:36:56,791 MyCategory [INFO] [src/SearchEngineServer/CalculateTask.cc:pageSearcher:81] [LogInfo]page query

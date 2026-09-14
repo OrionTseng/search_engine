@@ -1,0 +1,4 @@
+/Volumes/MYwork/code/C_C++/project/SearchEngine/online/build/CMakeFiles/search_engine_server.dir
+/Volumes/MYwork/code/C_C++/project/SearchEngine/online/build/CMakeFiles/run.dir
+/Volumes/MYwork/code/C_C++/project/SearchEngine/online/build/CMakeFiles/edit_cache.dir
+/Volumes/MYwork/code/C_C++/project/SearchEngine/online/build/CMakeFiles/rebuild_cache.dir
